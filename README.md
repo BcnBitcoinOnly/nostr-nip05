@@ -4,4 +4,4 @@ Contact us on [Telegram] or open an issue/PR if you want to verify your Nostr ha
 
 
 [Nostr NIP-05]: https://github.com/nostr-protocol/nips/blob/master/05.md
-[Telegram]: https://t.me/BitcoinBarcelo2
+[Telegram]: https://t.me/BarcelonaBitcoinOnly
